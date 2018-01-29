@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Inscripciones.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="23" />
+			<Collapse line="40" />
+			<Collapse line="53" />
+			<Collapse line="58" />
+			<Collapse line="63" />
+			<Collapse line="68" />
+			<Collapse line="81" />
+			<Collapse line="85" />
+			<Collapse line="89" />
+			<Collapse line="93" />
+		</Folding>
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="65" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Servicios.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="910" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Validaciones.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="987" topLine="227" />
+		</Cursor>
+	</File>
+	<File name="Controlador.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5794" topLine="76" />
+		</Cursor>
+		<Folding>
+			<Collapse line="32" />
+			<Collapse line="36" />
+			<Collapse line="40" />
+			<Collapse line="45" />
+			<Collapse line="50" />
+			<Collapse line="55" />
+			<Collapse line="65" />
+			<Collapse line="85" />
+			<Collapse line="94" />
+			<Collapse line="102" />
+			<Collapse line="115" />
+			<Collapse line="131" />
+			<Collapse line="146" />
+			<Collapse line="164" />
+			<Collapse line="176" />
+			<Collapse line="187" />
+			<Collapse line="204" />
+			<Collapse line="216" />
+		</Folding>
+	</File>
+	<File name="ArrayList.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DataManager.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="171" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="37" />
+			<Collapse line="59" />
+			<Collapse line="88" />
+			<Collapse line="122" />
+			<Collapse line="153" />
+		</Folding>
+	</File>
+	<File name="Servicios.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="318" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="23" />
+			<Collapse line="42" />
+			<Collapse line="55" />
+			<Collapse line="60" />
+			<Collapse line="65" />
+			<Collapse line="70" />
+			<Collapse line="78" />
+			<Collapse line="82" />
+			<Collapse line="86" />
+			<Collapse line="90" />
+		</Folding>
+	</File>
+	<File name="Socio.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="868" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Vista.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12525" topLine="97" />
+		</Cursor>
+		<Folding>
+			<Collapse line="33" />
+			<Collapse line="38" />
+			<Collapse line="137" />
+			<Collapse line="169" />
+			<Collapse line="194" />
+			<Collapse line="231" />
+			<Collapse line="241" />
+			<Collapse line="258" />
+			<Collapse line="294" />
+			<Collapse line="326" />
+			<Collapse line="350" />
+			<Collapse line="382" />
+			<Collapse line="394" />
+			<Collapse line="405" />
+			<Collapse line="420" />
+			<Collapse line="436" />
+		</Folding>
+	</File>
+	<File name="Vista.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="764" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Socio.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="110" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="23" />
+			<Collapse line="40" />
+			<Collapse line="51" />
+			<Collapse line="56" />
+			<Collapse line="61" />
+			<Collapse line="66" />
+			<Collapse line="71" />
+			<Collapse line="83" />
+			<Collapse line="87" />
+			<Collapse line="91" />
+			<Collapse line="95" />
+			<Collapse line="99" />
+		</Folding>
+	</File>
+	<File name="Controlador.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="203" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inscripciones.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="713" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DataManager.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="104" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

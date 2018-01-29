@@ -1,0 +1,293 @@
+# depslib dependency file v1.0
+1511458537 source:c:\users\maxin\desktop\biblioteca_parcial_2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511458656 c:\users\maxin\desktop\biblioteca_parcial_2\arraylist.h
+
+1446667744 source:c:\users\maxin\desktop\biblioteca_parcial_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511468867 source:c:\users\maxin\desktop\biblioteca_parcial_2\subjects.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Subjects.h"
+
+1511468867 c:\users\maxin\desktop\biblioteca_parcial_2\subjects.h
+	"ArrayList.h"
+
+1511468781 source:c:\users\maxin\desktop\biblioteca_parcial_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Interface.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511468715 c:\users\maxin\desktop\biblioteca_parcial_2\datamanager.h
+
+1511467481 c:\users\maxin\desktop\biblioteca_parcial_2\interface.h
+
+1511468023 c:\users\maxin\desktop\biblioteca_parcial_2\servicios.h
+	"ArrayList.h"
+
+1511384146 c:\users\maxin\desktop\biblioteca_parcial_2\inscripciones.h
+	"ArrayList.h"
+
+1511468781 source:c:\users\maxin\desktop\biblioteca_parcial_2\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511384142 source:c:\users\maxin\desktop\biblioteca_parcial_2\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1511384144 c:\users\maxin\desktop\biblioteca_parcial_2\inputs.h
+
+1511384144 source:c:\users\maxin\desktop\biblioteca_parcial_2\inscripciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Inscripciones.h"
+
+1511468650 source:c:\users\maxin\desktop\biblioteca_parcial_2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"Inputs.h"
+	"Controller.h"
+	"Interface.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511384154 c:\users\maxin\desktop\biblioteca_parcial_2\validaciones.h
+
+1511467705 c:\users\maxin\desktop\biblioteca_parcial_2\controller.h
+
+1511468195 source:c:\users\maxin\desktop\biblioteca_parcial_2\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Subjects.h"
+	"Servicios.h"
+
+1511384152 source:c:\users\maxin\desktop\biblioteca_parcial_2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1511458538 source:d:\biblioteca_parcial_2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511458658 d:\biblioteca_parcial_2\arraylist.h
+
+1511470110 source:d:\biblioteca_parcial_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Interface.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511468716 d:\biblioteca_parcial_2\datamanager.h
+
+1511467482 d:\biblioteca_parcial_2\interface.h
+
+1511469798 d:\biblioteca_parcial_2\subjects.h
+	"ArrayList.h"
+
+1511468024 d:\biblioteca_parcial_2\servicios.h
+	"ArrayList.h"
+
+1511384146 d:\biblioteca_parcial_2\inscripciones.h
+	"ArrayList.h"
+
+1511468782 source:d:\biblioteca_parcial_2\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511384142 source:d:\biblioteca_parcial_2\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1511384144 d:\biblioteca_parcial_2\inputs.h
+
+1511384144 source:d:\biblioteca_parcial_2\inscripciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Inscripciones.h"
+
+1511468926 source:d:\biblioteca_parcial_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1511467706 d:\biblioteca_parcial_2\controller.h
+
+1511468196 source:d:\biblioteca_parcial_2\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Subjects.h"
+	"Servicios.h"
+
+1511384152 source:d:\biblioteca_parcial_2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1511384154 d:\biblioteca_parcial_2\validaciones.h
+
+1511470110 source:d:\biblioteca_parcial_2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"Inputs.h"
+	"Controller.h"
+	"Interface.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511458538 source:c:\users\alumno\desktop\biblioteca_parcial_2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511458658 c:\users\alumno\desktop\biblioteca_parcial_2\arraylist.h
+
+1512000224 source:c:\users\alumno\desktop\biblioteca_parcial_2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Interface.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511468716 c:\users\alumno\desktop\biblioteca_parcial_2\datamanager.h
+
+1511467482 c:\users\alumno\desktop\biblioteca_parcial_2\interface.h
+
+1511469798 c:\users\alumno\desktop\biblioteca_parcial_2\subjects.h
+	"ArrayList.h"
+
+1511468024 c:\users\alumno\desktop\biblioteca_parcial_2\servicios.h
+	"ArrayList.h"
+
+1511384146 c:\users\alumno\desktop\biblioteca_parcial_2\inscripciones.h
+	"ArrayList.h"
+
+1511468782 source:c:\users\alumno\desktop\biblioteca_parcial_2\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511384142 source:c:\users\alumno\desktop\biblioteca_parcial_2\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1511384144 c:\users\alumno\desktop\biblioteca_parcial_2\inputs.h
+
+1511384144 source:c:\users\alumno\desktop\biblioteca_parcial_2\inscripciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Inscripciones.h"
+
+1511470110 source:c:\users\alumno\desktop\biblioteca_parcial_2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"Inputs.h"
+	"Controller.h"
+	"Interface.h"
+	"Subjects.h"
+	"Servicios.h"
+	"Inscripciones.h"
+
+1511384154 c:\users\alumno\desktop\biblioteca_parcial_2\validaciones.h
+
+1511467706 c:\users\alumno\desktop\biblioteca_parcial_2\controller.h
+
+1511468926 source:c:\users\alumno\desktop\biblioteca_parcial_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1511468196 source:c:\users\alumno\desktop\biblioteca_parcial_2\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Subjects.h"
+	"Servicios.h"
+
+1511800198 source:c:\users\alumno\desktop\biblioteca_parcial_2\subjects.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Subjects.h"
+
+1511384152 source:c:\users\alumno\desktop\biblioteca_parcial_2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+

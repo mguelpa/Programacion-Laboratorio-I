@@ -1,0 +1,77 @@
+LABORATORIO I
+
+FUNCIONES Y BIBLIOTECAS
+
+       Ejemplo:
+      /*******************************************************************************
+       funfion scanf(); 
+
+       NAME:
+              scanf,  fscanf, sscanf, vscanf, vsscanf, vfscanf 
+
+              ...
+
+       RETURN VALUE:
+              These functions return the number of input items  successfully  matched
+              and assigned, which can be fewer than provided for, or even zero in the
+              event of an early matching failure.
+
+              The value EOF is returned if the end of input is reached before  either
+              the  first  successful conversion or a matching failure occurs.  EOF is
+              also returned if a read error occurs, in which case the error indicator
+              for  the  stream  (see ferror(3)) is set, and errno is set indicate the
+              error.
+       *******************************************************************************/
+
+       Si se declara una variable y escribimos:
+              
+              int k = scanf(%f, &x); 
+
+       lo que se gauardaria en k seria valor que devuelve el "return" de scanf(); 
+       que depende de los items correctamente asignados en la variable x
+
+
+
+
+       Cuando escribimos un programa el codigo debe estar dividido en varias capas de funciones, es decir,
+       la funcion main debe llamar a funciones y estas a su vez pueden llamar a otras funciones que simplifiquen
+       su codigo. Programar pensando en funciones es tratar de simplificar los bloques de codigo que son genericos
+       y llevarlos a funciones que luego llamaremos en el resto del programa. 
+
+       ejemplo:
+
+       main()
+       {
+
+       	funcionSub1()
+       	{
+       		funcionSub2();
+       	}
+
+
+
+              return 0;
+       }
+
+
+       AGRUPACION DE CODIGO DE FUNCIONES A BIBLIOTECAS
+
+              codigo >> funciones >> archivos >> biblioteca(carpeta con varios archivos, cada archivo con funciones relacionadas)
+
+
+              para no tener que copiar los "#define" declarados en la funcion main(); y que el erchivo de la bilbioteca sea 
+              portable surgen los #include que lo que hacen es solucionarnos el problema
+
+              el #include lo que hace es reemplazar todo el codigo escrito de la funcion en el lugar donde esra escrito el 
+              #include, es decir, reemplaza la palabra por el codigo, de la misma manera que los #define reemplazan valores
+              en el codigo por una palabra
+
+
+              palabra reservada STATIC:
+
+              al poner esta palabra reservada antes del tipo de dato que devuelve la funcion hago que solo sea visible dentro del 
+              archivo .c donde esta escrito su codigo pero no por fuera, es decir que solo podremos llamarlas dentro de ese archivo.
+
+              las funciones privadas declaran el protoripo dentro del archivo .H
+
+              INPORTANTE: SIEMPRE CHECKEEAR LOS BUILD TARGETS FILE QUE ESTEN INCLUIDOS TODOS LOS .C SINO NO LOS COMPILA.

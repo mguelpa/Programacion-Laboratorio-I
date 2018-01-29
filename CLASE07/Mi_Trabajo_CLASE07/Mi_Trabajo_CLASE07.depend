@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504747575 source:e:\github\visto_en_clase07\mi_trabajo_clase07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

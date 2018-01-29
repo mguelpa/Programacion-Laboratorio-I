@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1505429853 source:d:\clase9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505432240 d:\clase9\producto.h
+
+1505429680 source:d:\clase9\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505351422 d:\clase9\validar.h
+
+1505351027 source:d:\clase9\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505874531 source:d:\clase9_v3\clase9_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505875457 d:\clase9_v3\clase9_v3\producto.h
+
+1505874679 d:\clase9_v3\clase9_v3\validar.h
+
+1505874639 source:d:\clase9_v3\clase9_v3\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505875401 source:d:\clase9_v3\clase9_v3\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Producto.h"
+	"validar.h"
+

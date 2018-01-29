@@ -1,0 +1,6 @@
+en los modelos de parciales hay que fijarse en validar que existan los ".." cargados en las entidades
+
+realizar contadores de llamadas y luego de obtener el resultado pedir por id
+
+
+publicar producto = a dar de lata un producto

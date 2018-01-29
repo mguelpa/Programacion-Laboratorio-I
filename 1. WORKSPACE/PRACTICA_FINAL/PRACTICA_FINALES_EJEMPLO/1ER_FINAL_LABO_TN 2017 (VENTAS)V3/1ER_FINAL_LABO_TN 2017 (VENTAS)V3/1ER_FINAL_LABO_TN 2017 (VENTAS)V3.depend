@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1511458538 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511458658 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\arraylist.h
+
+1513280949 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Cliente.h"
+
+1513281271 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\cliente.h
+	"ArrayList.h"
+
+1513280949 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"ArrayList.h"
+	"DataManager.h"
+	"Cliente.h"
+	"Venta.h"
+
+1511384144 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\inputs.h
+
+1513281271 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\datamanager.h
+
+1513281271 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\venta.h
+	"ArrayList.h"
+
+1511384142 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1513280949 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controlador.h"
+
+1513281319 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\controlador.h
+
+1512053652 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1512053652 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\validaciones.h
+
+1513282360 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Venta.h"
+
+1513281615 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\vista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"Validaciones.h"
+	"ArrayList.h"
+	"Vista.h"
+	"Controlador.h"
+	"Cliente.h"
+
+1513281271 c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\vista.h
+
+1513282896 source:c:\users\maxin\desktop\1er_final_labo_tn 2017 (ventas)v3\1er_final_labo_tn 2017 (ventas)v3\controlador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Controlador.h"
+	"Vista.h"
+	"Cliente.h"
+	"Venta.h"
+

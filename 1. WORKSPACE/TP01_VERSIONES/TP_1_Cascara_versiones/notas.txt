@@ -1,0 +1,23 @@
+RESOLVER:
+
+	funcion factorial:
+
+		-calcular factorial numeros decimales
+		-tomar solo la parte entera para resolver el factorial
+		-calcular factorial numeros negativos
+		-concepto funcion recursiva.
+
+MEJORAR:
+
+	funcion obtener numero:
+	
+		-separar funcion validar numerico
+		-funcion para pasar string a double
+
+OPCIONES:
+	
+	cargar string en main, validar y luego usar atoi o atof segun corresponda.
+
+
+	
+

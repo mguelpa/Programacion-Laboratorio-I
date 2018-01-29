@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1509668197 source:e:\visto_en_clase23\tp04\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1509663778 e:\visto_en_clase23\tp04\arraylist.h
+
+1508537372 source:e:\visto_en_clase23\tp04\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508537372 e:\visto_en_clase23\tp04\interface.h
+

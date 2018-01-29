@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1503191825 source:c:\users\max\desktop\github\1. programacion & laboratorio i\entregas tps\trabajo_practico_01\tp_1_cascara\funciones.c
+
+1503188669 source:c:\users\max\desktop\github\1. programacion & laboratorio i\entregas tps\trabajo_practico_01\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1503182742 c:\users\max\desktop\github\1. programacion & laboratorio i\entregas tps\trabajo_practico_01\tp_1_cascara\funciones.h
+
+1503366749 source:c:\users\max\desktop\github\programacion-laboratorio-i\resolucion_de_tps\trabajo_practico_01\tp_1_cascara\funciones.c
+
+1503366728 source:c:\users\max\desktop\github\programacion-laboratorio-i\resolucion_de_tps\trabajo_practico_01\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1503191825 c:\users\max\desktop\github\programacion-laboratorio-i\resolucion_de_tps\trabajo_practico_01\tp_1_cascara\funciones.h
+
+1503421625 source:c:\users\max\desktop\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\3. trabajos practicos & parciales\trabajo_practico_01\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1503411585 c:\users\max\desktop\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\3. trabajos practicos & parciales\trabajo_practico_01\tp_1_cascara\funciones.h
+
+1503421695 source:c:\users\max\desktop\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\3. trabajos practicos & parciales\trabajo_practico_01\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1503423217 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\trabajo_practico_01\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1503423217 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\trabajo_practico_01\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1503423217 c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\trabajo_practico_01\tp_1_cascara\funciones.h
+
+1503422183 source:c:\users\max\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp01_primer_version\trabajo_practico_01\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1503411585 c:\users\max\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp01_primer_version\trabajo_practico_01\tp_1_cascara\funciones.h
+
+1504383267 source:c:\users\max\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp01_primer_version\trabajo_practico_01\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1504389638 source:c:\users\max\desktop\tp01_primer_version\trabajo_practico_01\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504387475 c:\users\max\desktop\tp01_primer_version\trabajo_practico_01\tp_1_cascara\funciones.h
+
+1504387401 source:c:\users\max\desktop\tp01_primer_version\trabajo_practico_01\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+

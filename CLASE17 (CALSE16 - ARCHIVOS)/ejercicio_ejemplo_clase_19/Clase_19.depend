@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510686674 source:c:\users\maxin\desktop\ejercicio_ejemplo_clase_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1453762398 c:\users\maxin\desktop\ejercicio_ejemplo_clase_19\utn.h
+
+1453762398 source:c:\users\maxin\desktop\ejercicio_ejemplo_clase_19\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

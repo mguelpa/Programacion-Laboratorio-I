@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1511917306 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Interface.h"
+	"Products.h"
+	"Subjects.h"
+
+1511822774 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\interface.h
+
+1511816091 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1511816091 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\inputs.h
+
+1511917409 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Inputs.h"
+	"Controller.h"
+	"Interface.h"
+	"Products.h"
+	"Subjects.h"
+
+1511917306 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\controller.h
+
+1511812244 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1511458538 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511458658 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\arraylist.h
+
+1511912989 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\products.h
+	"ArrayList.h"
+
+1511911257 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\products.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Products.h"
+	"ArrayList.h"
+
+1511913303 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\datamanager.h
+
+1511913254 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"DataManager.h"
+	"Products.h"
+	"Subjects.h"
+
+1511917194 c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\subjects.h
+	"ArrayList.h"
+
+1511917276 source:c:\users\maxin\desktop\1er_parcial_2do_cuatrimestre_2017\subjects.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Subjects.h"
+

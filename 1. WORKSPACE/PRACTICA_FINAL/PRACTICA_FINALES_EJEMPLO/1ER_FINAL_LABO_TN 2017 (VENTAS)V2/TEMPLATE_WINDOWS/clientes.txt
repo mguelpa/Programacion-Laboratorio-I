@@ -1,0 +1,4 @@
+id,first_name,last_name,dni,status
+0,maxi,guelpa,35340965,0
+1,ana,marcataio,5445764,1
+2,ale,rimo,4533549,1

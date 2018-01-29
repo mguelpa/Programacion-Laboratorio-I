@@ -1,0 +1,43 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int dividir(float*, float, float);
+
+int main()
+{
+    float x,y,z;
+    printf("Ingrese el primer numero :\n");
+    scanf("%f",&x);
+    printf("Ingrese el segundo numero : \n");
+    scanf("%f",&y);
+
+    if(dividir(&z,x,y) == -1)
+    {
+        printf("eRROR");
+    }
+    else
+    {
+        printf("La division es : %.2f",z);
+    }
+
+
+    return 0;
+}
+/** \brief Divide
+ *
+ * \param resultado resultado de la di....
+ * \param
+ * \param
+ * \return (0) ok - (-1) Error
+ *
+ */
+int dividir(float* resultado,float a, float b)
+{
+    int retorno = -1;
+    if(b != 0)
+    {
+        *resultado = a/b;
+        retorno = 0;
+    }
+    return retorno;
+}

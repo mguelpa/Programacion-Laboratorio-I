@@ -1,0 +1,4 @@
+id,first_name,last_name,dni,status
+2,alejandro,rimoli,4556868,1
+1,ana,marcataio,5445764,0
+0,maxi,maxi,35340965,0

@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1510025212 source:c:\users\maxin\desktop\tp04\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"ArrayList.h"
+	"affiliate.h"
+
+1509931749 source:c:\users\maxin\desktop\tp04\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"controller.h"
+
+1509912273 source:c:\users\maxin\desktop\tp04\list.c
+
+1510027036 source:c:\users\maxin\desktop\tp04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"controller.h"
+	"inputs.h"
+
+1509920631 source:c:\users\maxin\desktop\tp04\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1509928318 c:\users\maxin\desktop\tp04\inputs.h
+
+1510022742 source:c:\users\maxin\desktop\tp04\affiliate.c
+	<stdio.h>
+	<stdlib.h>
+	"affiliate.h"
+
+1510026011 source:c:\users\maxin\desktop\tp04\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510026011 c:\users\maxin\desktop\tp04\arraylist.h
+
+1509922154 c:\users\maxin\desktop\tp04\interface.h
+
+1510025138 c:\users\maxin\desktop\tp04\controller.h
+	"ArrayList.h"
+	"affiliate.h"
+
+1510021165 c:\users\maxin\desktop\tp04\affiliate.h
+
+1510022742 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\affiliate.c
+	<stdio.h>
+	<stdlib.h>
+	"affiliate.h"
+
+1510021165 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\affiliate.h
+
+1510065177 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510061860 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\arraylist.h
+
+1509920631 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1509928318 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\inputs.h
+
+1510081848 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"controller.h"
+	"inputs.h"
+
+1510086992 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\controller.h
+	"ArrayList.h"
+	"affiliate.h"
+
+1510078967 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp04\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"ArrayList.h"
+	"affiliate.h"
+	"controller.h"
+

@@ -1,0 +1,1 @@
+gcc `pkg-config --cflags gtk+-3.0` -o main main.c Controlador.c DataManager.c Socio.c Validaciones.c Vista.c ArrayList.a `pkg-config --libs gtk+-3.0`

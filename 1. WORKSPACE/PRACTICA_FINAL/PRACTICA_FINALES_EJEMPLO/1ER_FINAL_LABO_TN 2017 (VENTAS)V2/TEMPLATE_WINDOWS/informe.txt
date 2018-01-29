@@ -1,0 +1,2 @@
+ID_venta	nombre_cliente	apellido_cliente	dni_cliente	codigo_producto	monto_facturado
+0		maxi		guelpa			35340965	1		0.50
