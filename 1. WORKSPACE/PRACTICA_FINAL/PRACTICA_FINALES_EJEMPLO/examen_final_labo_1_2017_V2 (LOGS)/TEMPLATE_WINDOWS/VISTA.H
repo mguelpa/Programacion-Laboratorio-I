@@ -1,9 +1,0 @@
-#ifndef VISTA_H_INCLUDED
-#define VISTA_H_INCLUDED
-
-#endif // VISTA_H_INCLUDED
-
-#define MENU_PPAL_ES "\n1. LEER LOG. \n2. PROCESAR INFO.\n3. MOSTRAR ESTADISTICAS X\n4. SALIR X"
-#define MENU_PPAL_ERROR_ES "\nOPCION INVALIDA\n"
-
-int vista_mostrarMenu();

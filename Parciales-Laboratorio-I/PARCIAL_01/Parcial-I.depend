@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1507249485 source:d:\guelpa\parciales-laboratorio-i\parcial-i\commands.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+	"pantallas.h"
+	"contrataciones.h"
+
+1507248929 d:\guelpa\parciales-laboratorio-i\parcial-i\interface.h
+
+1507249547 d:\guelpa\parciales-laboratorio-i\parcial-i\pantallas.h
+
+1507243822 d:\guelpa\parciales-laboratorio-i\parcial-i\contrataciones.h
+
+1507247355 source:d:\guelpa\parciales-laboratorio-i\parcial-i\contrataciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"contrataciones.h"
+
+1507248929 source:d:\guelpa\parciales-laboratorio-i\parcial-i\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1507247820 source:d:\guelpa\parciales-laboratorio-i\parcial-i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"commands.h"
+
+1507248001 d:\guelpa\parciales-laboratorio-i\parcial-i\commands.h
+	"pantallas.h"
+	"pantallas.h"
+
+1507249547 source:d:\guelpa\parciales-laboratorio-i\parcial-i\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pantallas.h"
+

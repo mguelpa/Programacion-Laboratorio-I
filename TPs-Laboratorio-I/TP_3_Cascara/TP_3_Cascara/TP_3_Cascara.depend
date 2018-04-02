@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1508461666 source:d:\tp_03\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"funciones.h"
+	"movies.h"
+
+1507676306 d:\tp_03\tp_3_cascara\tp_3_cascara\interface.h
+
+1508458680 d:\tp_03\tp_3_cascara\tp_3_cascara\funciones.h
+	"movies.h"
+
+1508461110 d:\tp_03\tp_3_cascara\tp_3_cascara\movies.h
+
+1507923686 source:d:\tp_03\tp_3_cascara\tp_3_cascara\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508274468 source:d:\tp_03\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"funciones.h"
+
+1508457406 source:d:\tp_03\tp_3_cascara\tp_3_cascara\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movies.h"
+
+1508461666 source:e:\tp_03\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"funciones.h"
+	"movies.h"
+
+1507676306 e:\tp_03\tp_3_cascara\tp_3_cascara\interface.h
+
+1508458680 e:\tp_03\tp_3_cascara\tp_3_cascara\funciones.h
+	"movies.h"
+
+1508461110 e:\tp_03\tp_3_cascara\tp_3_cascara\movies.h
+
+1507923686 source:e:\tp_03\tp_3_cascara\tp_3_cascara\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508458624 source:e:\tp_03\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"funciones.h"
+
+1508457406 source:e:\tp_03\tp_3_cascara\tp_3_cascara\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movies.h"
+
+1508806915 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"funciones.h"
+	"movies.h"
+
+1508810291 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\interface.h
+
+1508810291 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\funciones.h
+	"movies.h"
+
+1508807994 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\movies.h
+
+1508805069 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508806035 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"movies.h"
+
+1508806915 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\programacion-laboratorio-i\espacio_de_trabajo\tp_03\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"funciones.h"
+

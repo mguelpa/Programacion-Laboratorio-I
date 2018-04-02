@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1504458588 source:c:\users\conserjeria apart\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504458284 c:\users\conserjeria apart\desktop\tp_1_cascara\funciones.h
+
+1504458284 source:c:\users\conserjeria apart\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1504458284 source:c:\users\max\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1504458284 c:\users\max\desktop\tp_1_cascara\funciones.h
+
+1504459165 source:c:\users\max\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504667669 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1504580897 c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp_1_cascara\funciones.h
+
+1504667439 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504706758 source:c:\users\conserjeria apart\desktop\onedrive-2017-09-06\tp_1_cascara resuelto revisar vslidar cero negativo\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1504580897 c:\users\conserjeria apart\desktop\onedrive-2017-09-06\tp_1_cascara resuelto revisar vslidar cero negativo\tp_1_cascara\funciones.h
+
+1504708728 source:c:\users\conserjeria apart\desktop\onedrive-2017-09-06\tp_1_cascara resuelto revisar vslidar cero negativo\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504706758 source:c:\users\maxin\desktop\tp_1_cascara resuelto falta funcion verifica s-n\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1504580897 c:\users\maxin\desktop\tp_1_cascara resuelto falta funcion verifica s-n\tp_1_cascara\funciones.h
+
+1504706758 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp_1_cascara\tp_1_cascara final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1504580897 c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp_1_cascara\tp_1_cascara final\funciones.h
+
+1504709123 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\resolucion_de_tps\tp_1_cascara\tp_1_cascara final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504709123 source:c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504580897 c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_1_cascara\funciones.h
+
+1504814548 source:c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

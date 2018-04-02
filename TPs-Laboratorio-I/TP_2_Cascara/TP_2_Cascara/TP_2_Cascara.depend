@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1506110369 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\espacio_de_trabajo\tp_2_cascara_versiones\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validar.h"
+
+1506109747 c:\users\maxin\desktop\github\programacion-laboratorio-i\espacio_de_trabajo\tp_2_cascara_versiones\tp_2_cascara\tp_2_cascara\funciones.h
+
+1505875855 c:\users\maxin\desktop\github\programacion-laboratorio-i\espacio_de_trabajo\tp_2_cascara_versiones\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validar.h"
+
+1506039094 c:\users\maxin\desktop\github\programacion-laboratorio-i\espacio_de_trabajo\tp_2_cascara_versiones\tp_2_cascara\tp_2_cascara\validar.h
+	"funciones.h"
+
+1506089316 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\espacio_de_trabajo\tp_2_cascara_versiones\tp_2_cascara\tp_2_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validar.h"
+
+1506110538 source:c:\users\maxin\desktop\github\programacion-laboratorio-i\espacio_de_trabajo\tp_2_cascara_versiones\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validar.h"
+
+1506112518 source:c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validar.h"
+
+1506113098 c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_2_cascara\tp_2_cascara\funciones.h
+
+1506039094 c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_2_cascara\tp_2_cascara\validar.h
+	"funciones.h"
+
+1506112562 source:c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_2_cascara\tp_2_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validar.h"
+
+1506112949 source:c:\users\maxin\desktop\github\entregas tps\tps-laboratorio-i\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"validar.h"
+

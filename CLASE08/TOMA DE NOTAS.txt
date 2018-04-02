@@ -1,7 +1,0 @@
-gnomeSort
-
-proyecto rosetta code
-muchos codigos resueltos en distintos leguajes
-http://rosettacode.org/wiki/Rosetta_Code
-investigar codigos de ordenamiento
-

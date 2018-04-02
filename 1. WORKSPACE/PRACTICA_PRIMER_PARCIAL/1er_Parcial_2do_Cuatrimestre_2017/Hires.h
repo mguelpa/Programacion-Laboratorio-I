@@ -1,6 +1,0 @@
-#ifndef HIRES_H_INCLUDED
-#define HIRES_H_INCLUDED
-
-
-
-#endif // HIRES_H_INCLUDED

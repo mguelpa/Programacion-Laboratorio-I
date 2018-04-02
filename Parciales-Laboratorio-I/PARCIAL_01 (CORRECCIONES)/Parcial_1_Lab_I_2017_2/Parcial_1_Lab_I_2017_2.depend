@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1508445094 source:d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\commands.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+	"publicaciones.h"
+	"interface.h"
+
+1508446028 d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\pantallas.h
+
+1508453912 source:d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"commands.h"
+	"interface.h"
+
+1508444568 d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\commands.h
+	"pantallas.h"
+	"publicaciones.h"
+
+1508444568 source:d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+
+1508453032 source:d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508453032 d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\interface.h
+
+1508453032 source:e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508453032 e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\interface.h
+
+1508445094 source:e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\commands.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+	"publicaciones.h"
+	"interface.h"
+
+1508446028 e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\pantallas.h
+
+1508453912 source:e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"commands.h"
+	"interface.h"
+
+1508444568 e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\commands.h
+	"pantallas.h"
+	"publicaciones.h"
+
+1508444568 source:e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+
+1508446028 d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\publicaciones.h
+
+1508340002 source:d:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicaciones.h"
+
+1508446028 e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\publicaciones.h
+
+1508340002 source:e:\parcial_1_lab_i_2017_2\parcial_1_lab_i_2017_2\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicaciones.h"
+
+1508444071 source:c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\commands.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+	"publicaciones.h"
+	"interface.h"
+
+1508444566 c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\pantallas.h
+
+1508424936 c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\publicaciones.h
+
+1507676306 c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\interface.h
+
+1508335232 source:c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508443179 source:c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\main.c
+	<stdio.h>
+	<stdlib.h>
+	"commands.h"
+	"interface.h"
+
+1508444566 c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\commands.h
+	"pantallas.h"
+	"publicaciones.h"
+
+1508444566 source:c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+
+1508340002 source:c:\users\maxin\desktop\parcial_1_lab_i_2017_2 commited\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicaciones.h"
+
+1508453032 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"interface.h"
+
+1508453032 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\interface.h
+
+1508453912 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"commands.h"
+	"interface.h"
+
+1508444568 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\commands.h
+	"pantallas.h"
+	"publicaciones.h"
+
+1508446028 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\pantallas.h
+
+1508446028 c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\publicaciones.h
+
+1508444568 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+
+1508340002 source:c:\users\maxin\onedrive\1. documentos\utn fra\1. programacion & laboratorio i\github\entregas - parciales y tps\parciales-laboratorio-i\parcial_01 (correcciones)\parcial_1_lab_i_2017_2\publicaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"publicaciones.h"
+

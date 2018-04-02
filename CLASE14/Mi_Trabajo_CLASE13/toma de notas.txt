@@ -1,3 +1,0 @@
-si las entidades estan relacionadas cuando se realiza 
-la baja en la funcion baja tiene que dar de baja el 
-estado de ambas entidades.

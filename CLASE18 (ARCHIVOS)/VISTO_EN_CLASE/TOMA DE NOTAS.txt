@@ -1,3 +1,0 @@
-TOMA DE NOTAS (ARCHIVOS)
-
-fprintf(); ----> funcion para resolver tp y escribir archivos

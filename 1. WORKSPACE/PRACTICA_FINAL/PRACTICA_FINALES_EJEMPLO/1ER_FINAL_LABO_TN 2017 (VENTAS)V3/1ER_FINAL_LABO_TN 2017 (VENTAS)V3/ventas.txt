@@ -1,4 +1,0 @@
-ventaID,ventaStatus,clientID,productID,cantidad
-0,0,0,1002,2
-1,0,1,1000,3
-2,0,0,1000,1
